@@ -1,45 +1,39 @@
 extern crate html5ever;
-extern crate url;
 
-use std::env;
-use std::io::stdout;
-use std::io::Write;
-use url::Url;
-
-use fetch::UrlState;
-
-mod parse;
-mod fetch;
-mod crawler;
+use html5ever::{ParseOpts, parse_document};
+use html5ever::tree_builder::TreeBuilderOpts;
+use html5ever::rcdom::RcDom;
+use html5ever::rcdom::NodeEnum::Element;
+use html5ever::serialize::{SerializeOpts, serialize};
+use html5ever::tendril::TendrilSink;
 
 fn main() {
-    let args: Vec<_> = env::args().collect();
-    if args.len() > 1 {
-        let start_url_string = &args[1];
+    let opts = ParseOpts {
+        tree_builder: TreeBuilderOpts {
+            drop_doctype: true,
+            ..Default::default()
+        },
+        ..Default::default()
+    };
+    let data = "<!DOCTYPE html><html><body><a href=\"foo\"></a></body></html>".to_string();
+    let dom = parse_document(RcDom::default(), opts)
+        .from_utf8()
+        .read_from(&mut data.as_bytes())
+        .unwrap();
 
-        let start_url = Url::parse(start_url_string).unwrap();
-        let domain = start_url
-            .domain()
-            .expect("I can't find a domain in your URL");
+    let document = dom.document.borrow();
+    let html = document.children[0].borrow();
+    let body = html.children[1].borrow(); // Implicit head element at children[0].
 
-        let mut success_count = 0;
-        let mut fail_count = 0;
-
-        for url_state in crawler::crawl(&domain, &start_url) {
-            match url_state {
-                UrlState::Accessible(_) => {
-                    success_count += 1;
-                }
-                status => {
-                    fail_count += 1;
-                    println!("{}", status);
-                }
-            }
-
-            print!("Succeeded: {} Failed: {}\r", success_count, fail_count);
-            stdout().flush().unwrap();
+    {
+        let mut a = body.children[0].borrow_mut();
+        if let Element(_, _, ref mut attributes) = a.node {
+            attributes[0].value.push_tendril(&From::from("#anchor"));
         }
-    } else {
-        println!("Please provide a URL.");
     }
+
+    let mut bytes = vec![];
+    serialize(&mut bytes, &dom.document, SerializeOpts::default()).unwrap();
+    let result = String::from_utf8(bytes).unwrap();
+    println!("{}", result);
 }

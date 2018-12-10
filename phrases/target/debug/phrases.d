@@ -1,0 +1,1 @@
+/mnt/c/Users/Max\ Kelly/Documents/GitHub/Rust/phrases/target/debug/phrases: /mnt/c/Users/Max\ Kelly/Documents/GitHub/Rust/phrases/src/lib.rs /mnt/c/Users/Max\ Kelly/Documents/GitHub/Rust/phrases/src/main.rs
