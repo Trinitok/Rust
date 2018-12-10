@@ -1,0 +1,13 @@
+/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/deps/libunicode_bidi-655cc01f117fe782.rlib: /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/lib.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/deprecated.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/format_chars.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/level.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/mod.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/tables.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/explicit.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/implicit.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/prepare.rs
+
+/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/deps/unicode_bidi-655cc01f117fe782.d: /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/lib.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/deprecated.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/format_chars.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/level.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/mod.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/tables.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/explicit.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/implicit.rs /home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/prepare.rs
+
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/lib.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/deprecated.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/format_chars.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/level.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/mod.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/char_data/tables.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/explicit.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/implicit.rs:
+/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-bidi-0.3.4/src/prepare.rs:

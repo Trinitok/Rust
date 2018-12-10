@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":12080829452381482832,"profile":7990393541957723157,"path":8221677934831028375,"deps":[["encoding v0.2.33","encoding",14375348990872564263],["flate2 v0.2.20","flate2",7043807115591765200],["hyper v0.9.18","hyper",8915777417679481166]],"local":[{"Precalculated":"0.7.2"}],"rustflags":[],"edition":"Edition2015"}

@@ -1,11 +1,9 @@
 [package]
-name = "crawler"
+name = "linkcrawler"
 version = "0.1.0"
-authors = ["kellymr1 <kellymr1@rose-hulman.edu>"]
-edition = "2018"
+authors = ["tensor-programming <abeltensor@tensor-programming.com>"]
 
 [dependencies]
+hyper = "0.10.1"
 html5ever = "0.21.0"
 url = "0.2.37"
-hyper = "0.10.1"
-fetch = "*"

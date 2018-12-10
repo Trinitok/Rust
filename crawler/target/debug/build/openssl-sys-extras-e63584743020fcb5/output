@@ -1,0 +1,56 @@
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-Wall" "-Wextra" "-o" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/src/openssl_shim.o" "-c" "src/openssl_shim.c"
+exit code: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-Wall" "-Wextra" "-o" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/ssl_ctx_options_shim.o" "-c" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/ssl_ctx_options_shim.c"
+exit code: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+running: "ar" "crs" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/libopenssl_shim.a" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/src/openssl_shim.o" "/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out/ssl_ctx_options_shim.o"
+exit code: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+cargo:rustc-link-lib=static=openssl_shim
+cargo:rustc-link-search=native=/mnt/c/Users/Max Kelly/Documents/GitHub/Rust/crawler/target/debug/build/openssl-sys-extras-e63584743020fcb5/out
