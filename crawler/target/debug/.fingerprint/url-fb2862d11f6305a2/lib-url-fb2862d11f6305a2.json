@@ -1,0 +1,1 @@
+{"rustc":5113389540416417165,"features":"[]","target":8066478479859231630,"profile":11870183705523825133,"path":6640217277590492078,"deps":[["matches v0.1.8","matches",12936897771331092337],["rustc-serialize v0.3.24","rustc_serialize",11197200004595358441],["uuid v0.1.18","uuid",8248085123414014160]],"local":[{"Precalculated":"0.2.38"}],"rustflags":[],"edition":"Edition2015"}

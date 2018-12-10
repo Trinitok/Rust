@@ -1,0 +1,10 @@
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/libparking_lot_core-142dfd260d64f6a8.rlib: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs
+
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/parking_lot_core-142dfd260d64f6a8.d: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs
+
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs:
