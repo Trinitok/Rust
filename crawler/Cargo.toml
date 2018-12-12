@@ -6,3 +6,5 @@ authors = ["Max Kelly <maxrkelly@gmail.com>"]
 
 [dependencies]
 html5ever = "*"
+hyper="*"
+select="*"

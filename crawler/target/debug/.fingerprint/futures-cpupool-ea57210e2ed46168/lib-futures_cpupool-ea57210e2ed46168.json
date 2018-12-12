@@ -1,0 +1,1 @@
+{"rustc":5113389540416417165,"features":"[\"default\", \"futures\", \"with-deprecated\"]","target":14137948380275582812,"profile":11870183705523825133,"path":9139535156366059470,"deps":[["futures v0.1.25","futures",3102580969280566702],["num_cpus v1.8.0","num_cpus",11506665910587439586]],"local":[{"Precalculated":"0.1.8"}],"rustflags":[],"edition":"Edition2015"}
