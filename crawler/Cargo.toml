@@ -5,5 +5,6 @@ description = "This is a web crawler maybe it will work, maybe it wont.  who kno
 authors = ["Max Kelly <maxrkelly@gmail.com>"]
 
 [dependencies]
-html5ever = "0.22.5"
-hyper = "*"
+select = "*"
+reqwest = "*"
+url="*"
