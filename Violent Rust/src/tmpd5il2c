@@ -1,0 +1,50 @@
+extern crate getopts;
+
+use getopts::Options;
+use std::env;
+use std::net::{TcpStream, Ipv4Addr};
+
+fn connScan(tgtHost: &str, tgtPort: &str)  {
+	let stream = TcpStream::connect((tgtHost, tgtPort.parse().unwrap())).expec;
+    stream.send()
+	println!("open connection found on {}", tgtPort.parse().unwrap());
+
+}
+
+def portScan(tgtHost: &str, tgtPorts: Vec<String>){
+	for port in tgtPorts{
+		println!("Scanning: {}", port);
+		connScan(tgtHost, port);
+	}
+}
+
+fn print_usage(program: &str, opts: Options) {
+    let brief = format!("Usage: {} FILE [options]", program);
+    print!("{}", opts.usage(&brief));
+}
+
+fn main() {
+
+	let args: Vec<String> = env::args().collect();
+
+	let mut opts = Options::new();
+    opts.reqopt("H", "host", "set target host name", "Host Name");
+    opts.reqopt("p", "port", "set target port number", "Port Number");
+    opts.optflag("h", "help", "print this help menu");
+
+    //  parse the command line args.  the first arg is the program itself
+    let matches = match opts.parse(&args[1..]) {
+        Ok(m) => { m }
+        Err(f) => { panic!(f.to_string()) }
+    };
+    if matches.opt_present("h") {
+        print_usage(args[0].clone(), opts);
+        return;
+    }
+
+    let host = matches.opt_str("H");
+    let port = matches.opt_str("p")
+
+	
+	
+}

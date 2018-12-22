@@ -1,0 +1,11 @@
+use std::env::args;
+
+fn main() {
+
+	if env.args().len() < 3{
+		println!("usage");
+	}
+
+	let args = env.args();
+	
+}

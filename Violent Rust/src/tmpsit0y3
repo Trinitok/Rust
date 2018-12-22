@@ -1,0 +1,9 @@
+use std::env::args;
+
+fn main() {
+
+	i
+
+	let args = env.args();
+	
+}

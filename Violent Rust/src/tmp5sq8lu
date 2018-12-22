@@ -1,0 +1,13 @@
+use std::env::args;
+
+fn main() {
+
+	let args: Vec<String> = env::args().collect();
+
+	if args.len() < 3{
+		println!("usage car");
+	}
+
+	let args = env.args();
+	
+}

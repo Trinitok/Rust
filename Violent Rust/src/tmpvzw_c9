@@ -1,0 +1,6 @@
+use std:
+
+///  This is for dictionary attacks against zip files
+fn main() {
+	
+}
