@@ -1,0 +1,12 @@
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/libcssparser-a0a8ac6fb6f4b535.rlib: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/rules_and_declarations.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/tokenizer.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/parser.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/from_bytes.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/color.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/nth.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/serializer.rs
+
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/cssparser-a0a8ac6fb6f4b535.d: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/rules_and_declarations.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/tokenizer.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/parser.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/from_bytes.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/color.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/nth.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/serializer.rs
+
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/lib.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/rules_and_declarations.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/tokenizer.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/parser.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/from_bytes.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/color.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/nth.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.6.0/src/serializer.rs:

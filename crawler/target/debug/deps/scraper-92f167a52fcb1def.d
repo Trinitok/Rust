@@ -1,0 +1,12 @@
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/libscraper-92f167a52fcb1def.rlib: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/mod.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/tree_sink.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/node.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/mod.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/element.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/serializable.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/selector.rs
+
+/mnt/c/Users/Max Kelly/Documents/Github/rust/crawler/target/debug/deps/scraper-92f167a52fcb1def.d: /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/lib.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/mod.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/tree_sink.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/node.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/mod.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/element.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/serializable.rs /home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/selector.rs
+
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/lib.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/mod.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/html/tree_sink.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/node.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/mod.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/element.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/element_ref/serializable.rs:
+/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.9.0/src/selector.rs:

@@ -1,1 +1,1 @@
-cargo:rerun-if-changed=/home/Max/.cargo/registry/src/github.com-1ecc6299db9ec823/html5ever-0.5.4/src/tree_builder/rules.rs
+cargo:rerun-if-changed=/home/trinitok/.cargo/registry/src/github.com-1ecc6299db9ec823/html5ever-0.5.4/src/tree_builder/rules.rs

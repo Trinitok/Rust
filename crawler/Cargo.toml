@@ -1,10 +1,10 @@
 [package]
 name = "web_crawler"
-version = "0.6.0"
+version = "0.7.0"
 description = "This is a web crawler maybe it will work, maybe it wont.  who knows?"
 authors = ["Max Kelly <maxrkelly@gmail.com>"]
 
 [dependencies]
-html5ever = "*"
-hyper="*"
-select="*"
+select = "*"
+reqwest = "*"
+url="*"
