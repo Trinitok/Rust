@@ -8,3 +8,5 @@ edition = "2018"
 # zip = "0.5"  for when running the unzipper
 getopts = "0.2.18"
 pnet = "0.21.0"
+lib_blaster = "0.3.1"
+synner = "0.1.1"

@@ -1,0 +1,1 @@
+{"rustc":5113389540416417165,"features":"[]","target":4944179213620976468,"profile":11870183705523825133,"path":15020173067176666525,"deps":[["glob v0.2.11","glob",7159610941054937119],["pnet_macros v0.21.0","pnet_macros",4490760590030325004],["syntex v0.42.2","syntex",15877101087013274286]],"local":[{"Precalculated":"0.21.0"}],"rustflags":[],"edition":"Edition2015"}

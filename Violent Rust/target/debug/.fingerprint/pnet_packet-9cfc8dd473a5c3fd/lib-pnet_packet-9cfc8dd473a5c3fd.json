@@ -1,0 +1,1 @@
+{"rustc":5113389540416417165,"features":"[]","target":3040670084866821535,"profile":11870183705523825133,"path":1108851297039207646,"deps":[["pnet_base v0.21.0","pnet_base",2954269483958642670],["pnet_macros_support v0.21.0","pnet_macros_support",8832046839236116541]],"local":[{"Precalculated":"0.21.0"}],"rustflags":[],"edition":"Edition2015"}

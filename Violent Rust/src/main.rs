@@ -1,4 +1,5 @@
 extern crate getopts;
+extern crate synner;
 
 use getopts::Options;
 use std::env;
@@ -7,6 +8,8 @@ use std::net::{TcpStream, IpAddr, Ipv4Addr, Ipv6Addr};
 use std::process;
 use std::sync::mpsc::{Sender, channel};
 use std::thread;
+
+use synner::tcp::packet::{send_tcp_packets};
 
 const MAX: u16 =  65535;
 
@@ -89,6 +92,8 @@ fn main() {
 
     let host = string_to_static_str(matches.opt_str("host").unwrap());
     
+    //  test using synner for syn flood attack
+    send_tcp_packets(host.parse::<Ipv4Addr>().unwrap(), "eth0".to_string(), 1);
 
     
 
