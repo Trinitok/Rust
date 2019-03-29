@@ -1,7 +1,11 @@
+extern crate ftp;
+
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::net::TcpListener;
 use std::fs;
+
+use ftp::FtpStream;
 
 use Rust_Server::ThreadPool;
 
