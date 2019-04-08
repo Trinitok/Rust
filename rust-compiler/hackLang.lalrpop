@@ -1,0 +1,28 @@
+use std::str::FromStr;
+use ast::{Expr, Opcode}; // (0)
+
+grammar;
+
+pub FILESYNTAX = {
+	HACK + LINEDELIM + FILESYNTAX,
+	HACK + LINEDELIM,
+}
+
+pub HACK: String = {
+    FILE,
+    WRITE,
+};
+
+FILE: String = {
+	"FILE " + PATH,
+}
+
+WRITE: String = {
+	"WRITE " + PATH,
+}
+
+pub PATH: String = r"[\w\-. ]" => {
+	<>.to_string()
+};
+
+LINEDELIM: String = ";";

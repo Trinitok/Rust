@@ -5,7 +5,7 @@ use std::net::TcpStream;
 use std::net::TcpListener;
 use std::fs;
 
-use ftp::FtpStream;
+use ftp::FtpStream; 
 
 use Rust_Server::ThreadPool;
 
@@ -52,6 +52,8 @@ fn handle_connection(mut stream: TcpStream){
     } 
 
     else if buffer.starts_with(get_file) {  //  tries to transfer a file
+
+        let ftp_stream = FtpStream::connect("127.0.0.1:21").unwrap();
 
     	let contents = fs::read_to_string("test-file.exe").unwrap();
 

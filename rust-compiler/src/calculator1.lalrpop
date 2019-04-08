@@ -1,0 +1,11 @@
+use std::str::FromStr;
+
+grammar;
+
+pub Term = {
+    Num,
+    "(" <Term> ")",
+    "22" => format!("Twenty-two!"),
+};
+
+Num: String = r"[0-9]+" => <>.to_string();

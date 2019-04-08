@@ -1,0 +1,1 @@
+{"rustc":16010953336616167424,"features":"[\"bit-vec\", \"default\", \"std\"]","target":3621830350570936802,"profile":9935990280773120926,"path":16430860169823253660,"deps":[["bit-vec v0.5.1","bit_vec",18286719893562528417]],"local":[{"Precalculated":"0.5.1"}],"rustflags":[],"metadata":14770418712097503336}
