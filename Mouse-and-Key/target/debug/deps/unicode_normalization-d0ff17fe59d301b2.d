@@ -1,0 +1,11 @@
+/root/Documents/Github/Rust/Mouse-and-Key/target/debug/deps/unicode_normalization-d0ff17fe59d301b2.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/decompose.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/normalize.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/recompose.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/quick_check.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/stream_safe.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/tables.rs
+
+/root/Documents/Github/Rust/Mouse-and-Key/target/debug/deps/unicode_normalization-d0ff17fe59d301b2.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/decompose.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/normalize.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/recompose.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/quick_check.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/stream_safe.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/tables.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/decompose.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/normalize.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/recompose.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/quick_check.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/stream_safe.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.8/src/tables.rs:

@@ -1,0 +1,13 @@
+/root/Documents/Github/Rust/Mouse-and-Key/target/debug/deps/libapp_dirs2-c94032fd35a4fe85.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/common.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/macos.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/windows.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unknown.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/redox.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/utils.rs
+
+/root/Documents/Github/Rust/Mouse-and-Key/target/debug/deps/app_dirs2-c94032fd35a4fe85.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/common.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/macos.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/windows.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unknown.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/redox.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/utils.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/common.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/macos.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unix.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/windows.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/unknown.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/imp/platform/redox.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/app_dirs2-2.0.3/src/utils.rs:
