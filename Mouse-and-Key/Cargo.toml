@@ -1,0 +1,9 @@
+[package]
+name = "Mouse-and-Key"
+version = "0.1.0"
+authors = ["root"]
+edition = "2018"
+
+[dependencies]
+termion="*"
+sdl2 = "0.32"
