@@ -6,7 +6,7 @@ target/*
 #
 #already existing elements are commented out
 
-debug/*
+*/debug/*
 
-/target
+*/target/*
 **/*.rs.bk

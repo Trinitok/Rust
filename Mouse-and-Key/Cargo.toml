@@ -5,5 +5,3 @@ authors = ["root"]
 edition = "2018"
 
 [dependencies]
-termion="*"
-sdl2 = "0.32"
