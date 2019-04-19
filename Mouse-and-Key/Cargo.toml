@@ -5,3 +5,10 @@ authors = ["root"]
 edition = "2018"
 
 [dependencies]
+libc="*"
+
+[profile.dev]
+opt-level = 3
+
+[profile.release]
+opt-level = 3
