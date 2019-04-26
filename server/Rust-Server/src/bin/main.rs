@@ -21,11 +21,19 @@ use std::str;
 // }
 
 fn main() {
-    let listener = TcpListener::bind("127.0.0.1:7878").unwrap();
+    let listener = TcpListener::bind("137.112.147.248:7878").unwrap();
     // let pool = ThreadPool::new(4);
     // let signals = Signals::new(&[SIGINT])?;
 
-    for stream in listener.incoming().take(5){
+    // let listened = listener.accept();
+    // match listened{
+    //     Ok(l) => println!("working with version: penis"),
+    //     Err(e) => println!("error parsing header: penis"),
+    // }
+
+    // listener.set_nonblocking(false);
+
+    for stream in listener.incoming(){
     	let stream = stream.unwrap();
 
         print!("incoming IP {:?} ", stream.local_addr().unwrap());
