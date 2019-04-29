@@ -3,7 +3,7 @@ use std::net::TcpStream;
 
 use std::thread;
 
-static NTHREADS: i32 = 10;
+static NTHREADS: i32 = 100;
 
 fn main() {
 	let mut children = vec![];
